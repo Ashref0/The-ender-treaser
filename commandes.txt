@@ -1,0 +1,5 @@
+compilation:
+gcc main.c perso.c utilitaire.c background.c collisionparfaite.c map.c time.c ennemie.c entity.c menu.c level.c ia.c -o prog -lSDL -lSDL_image -lSDL_mixer -lSDL_ttf -lSDL_gfx
+
+exécution:
+./prog
